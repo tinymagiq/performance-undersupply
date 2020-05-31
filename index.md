@@ -1,8 +1,10 @@
-# HIPOHA
+# PhenoBL (Phenomenon Based Learning)
 
 ## Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YeLy4Cm7Cdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Phenomenon Based Learning model or PhenoBL has been pioneered by Finnish Educators since 2016-17. PhenoBL is very effective at mindset change compared to the typically used topic-based learning model. PhenoBL is a paradigm shift (in the Thomas Kuhn sense of the phrase) that is just getting started. <a href="https://en.wikipedia.org/wiki/Paradigm_shift"> Click for More details on Paradigm Shift </a>
+ 
+We at Tiny Magiq are happy to say that the framework we have developed over the last 5+ years -  HiPoHa for Digital Transformation , is based on the principles of PhenoBL. We have gotten here through a series of lucky accidents to present to you what may be amongst the world's first few commercial/corporate implementations of PhenoBL. 
 
 ## HiPoHA In A Page
 
