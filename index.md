@@ -21,7 +21,7 @@ In PhenoBL, a program needs an anchor phenomenon. For example, the anchor phenom
 
 We in Tiny Magiq have extended PhenoBL to help employees of our clients <b> make the phenomenon of digital transformation </b> happen and not just <b> learn about Digital Transformation </b>. Digital Transformation being the phenomenon we go after. 
 
-To help our client make the phenomenon of Digital Transformation happen, we have extended the concept of Anchor Phenomenon to what we call Measurable Anchor Phenomenon (MAP). We work with our client stakeholders to determine a MAP that our program participants (our mentees) can achieve during our 120-day 10-minutes-a-day program.  The MAPs serve as the anchor phenomena to hold all the learnings together as a connected thread in the minds of the participants. 
+To help our clients make the phenomenon of Digital Transformation happen in their organizational context, we have extended the concept of Anchor Phenomenon to what we call Measurable Anchor Phenomenon (MAP). We work with our client stakeholders to determine a MAP that our program participants (our mentees) can achieve during our 120-day 10-minutes-a-day program.  The MAPs serve as the anchor phenomena to hold all the learnings together as a connected thread in the minds of the participants. 
 
 The MAPs can’t be achieved without developing the required skills and mindsets for making Digital Transformation happen in the context of the participants. In other words, the achievement of the MAP would serve as the evidence of skills gained & mindsets changed and be one of the key success criteria for measuring the program’s effectiveness.  
 
