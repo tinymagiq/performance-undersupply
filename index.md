@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Phenomenon Based Learning model or PhenoBL has been pioneered by Finnish Educators since 2016-17. PhenoBL is very effective at mindset change compared to the typically used topic-based learning model. PhenoBL is a paradigm shift (in the Thomas Kuhn sense of the phrase) that is just getting started. <a href="https://en.wikipedia.org/wiki/Paradigm_shift"> Click for More details on Paradigm Shift </a>
+Welcome to the world of Phenomenon Based Learning. The Phenomenon Based Learning model or PhenoBL has been pioneered by Finnish Educators since 2016-17. PhenoBL is very effective at mindset change compared to the typically used topic-based learning model. PhenoBL is a paradigm shift (in the Thomas Kuhn sense of the phrase) that is just getting started. <a href="https://en.wikipedia.org/wiki/Paradigm_shift"> Click for More details on Paradigm Shift </a>
  
-We at Tiny Magiq are happy to say that the framework we have developed over the last 5+ years -  HiPoHa for Digital Transformation , is based on the principles of PhenoBL. We have gotten here through a series of lucky accidents to present to you what may be amongst the world's first few commercial/corporate implementations of PhenoBL. 
+We at href="https://en.wikipedia.org/wiki/Paradigm_shift"> Tiny Magiq </a> are happy to say that the framework we have developed over the last 5+ years -  HiPoHa for Digital Transformation , is based on the principles of PhenoBL. We have gotten here through a series of lucky accidents to present to you what may be amongst the world's first few commercial/corporate implementations of PhenoBL. 
 
 ## What is PhenoBL & Why PhenoBL? 
 To understand PhenoBL, we can use the example of a tsunami. For us to learn about tsunamis we only need to learn the relevant parts from the topic areas: geology, seismology, plate tectonics, metrology, climatology, geography, history of tsunamis in a particular area, disaster management, physics of tidal waves & ocean currents etc. 
