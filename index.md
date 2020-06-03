@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Performance Undersupply is a concept developed by Tiny Magiq. Decades of research and experience in innovation, transformation and related areas shows us that transformative innovations are born not out of problems but out of performance undersupply, which is a bottom of the iceberg not-easy-to-observe phenomenon. 
+Performance Undersupply is a concept developed by Tiny Magiq. Decades of research and experience in innovation, transformation and related areas shows us that transformative innovations are born not out of problems but out of performance undersupply, which is a bottom of the iceberg not-easy-to-observe phenomenon. Transformative innovators go after performance undersupply that has become an accepted feature of a system. 
  
 We at <a href="https://tinymagiq.com"> Tiny Magiq </a> are happy to say that the framework we have developed over the last 5+ years [HiPoHa for Digital Transformation & Behavior Transformation] helps our client organizations identify breakthrough transformative opportunities using this concept.
 
