@@ -21,7 +21,8 @@ Please watch this 1 min video to understand the difference.
 
 ## What is the difference between Performance Undersupply & Performance Oversupply? 
 
-Please watch this 3 min video to understand the metaphor of the trim tab. 
+Please watch this 3 min video to understand the difference between performance oversupply which Prof Clayton
+Christensen's concept and Tiny Magiq's concept of Performance Undersupply.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9bFdESA2sbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
